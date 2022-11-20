@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreiaMsT
-- 🌱 I’m currently learning Front-End
+
 <!---
 -  👀 I’m interested in ..
 - 💞️ I’m looking to collaborate on ...
