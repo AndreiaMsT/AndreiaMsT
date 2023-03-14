@@ -3,7 +3,7 @@
 
 👩‍💻 Full Stack Web Developer Student @EDIT
 
-📖 book lover
+📖 Book lover
 
 📫 How to reach me: am.teixeira4@gmail.com
 
