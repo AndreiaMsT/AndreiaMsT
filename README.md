@@ -1,10 +1,12 @@
-                                                                     👋 Hi, I’m @AndreiaMsT
+                                                 🙋‍♀️ Hi, I’m @AndreiaMsT
 
 
--  👀 Full Stack Web Developer Student @EDIT
+👩‍💻 Full Stack Web Developer Student @EDIT
 
-- 📫 How to reach me: am.teixeira4@gmail.com
---->
+📖 book lover
+
+📫 How to reach me: am.teixeira4@gmail.com
+
 
 <!---
 AndreiaMsT/AndreiaMsT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
