@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @AndreiaMsT
+                                                                     👋 Hi, I’m @AndreiaMsT
 
-<!---
--  👀 I’m interested in ..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+-  👀 Full Stack Web Developer Student @EDIT
+
+- 📫 How to reach me: am.teixeira4@gmail.com
 --->
 
 <!---
