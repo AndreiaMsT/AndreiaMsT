@@ -5,7 +5,7 @@ Hi there, I’m Andreia Teixeira 🙋‍♀️
 
 📖 Book lover
 
-📫 How to reach me: am.teixeira4@gmail.com
+
 
 
 <!---
