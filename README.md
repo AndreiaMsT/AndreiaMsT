@@ -3,7 +3,7 @@ Hi there, I’m Andreia Teixeira 🙋‍♀️
 
 👩‍💻 Full Stack Web Developer Student @EDIT
 
-📖 Book lover
+
 
 
 
