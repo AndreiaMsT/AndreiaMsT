@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andreia</h1>
 <h3 align="center">I'm an aspiring Front-end Developer</h3>
-<img align="right" alt="Coding" width="400" src=">
+<img align="right" alt="Coding" width="400" src="https://flatironschool.com/legacy-assets/images.ctfassets.net/hkpf2qd2vxgx/21Rmb6DrlFehbXI8uHrSTN/9798ad36e02c2ba90b89297062264461/pusheen-cat-keyboard.gif">
+
 
 - 👩‍💻 Full Stack Web Development course @EDIT.
 
@@ -8,7 +9,7 @@
 
 - 🤝 I’m looking to explore potential collaborations or exciting job opportunities
 
-- 🖥️ Check my repositories do se all my projects!
+- 🖥️ Check my repositories do see all my projects!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
