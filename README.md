@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andreia</h1>
-<h3 align="center">I'm an aspiring Front-end Developer 👩‍💻 </h3>
+<h3 align="center">I'm an aspiring Frontend Developer 👩‍💻 </h3>
 
 
 - 👩‍🎓 Full Stack Web Development course @EDIT.
