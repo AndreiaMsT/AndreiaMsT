@@ -2,7 +2,7 @@
 <h3 align="center">I'm an aspiring Frontend Developer 👩‍💻 </h3>
 
 
-- 👩‍🎓 Full Stack Web Development course @EDIT.
+- 👩‍🎓 Full Stack Web Development @ EDIT.
 
 - React enthusiast!
 
@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking to explore potential collaborations or exciting job opportunities
 
-- 🖥️ Check my repositories do see all my projects!
+- 🖥️ Check my repositories to see all my projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
