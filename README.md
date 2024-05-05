@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking to explore potential collaborations or exciting job opportunities
 
-- 🖥️ Check my repositories to see all my projects
+- 🖥️ Check my repositories to what I have been developing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
